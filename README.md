@@ -1,7 +1,7 @@
 # babelify-jest
 
 [Babel](https://github.com/babel/babel) [jest](https://github.com/facebook/jest) plugin which handles babelify modules
-gently.
+gently. Note: As of babelify-jest 1.0.0, Babel6 is required.
 
 ## Usage
 
